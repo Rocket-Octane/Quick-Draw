@@ -18,12 +18,12 @@ p {
     color: white;
     font-size: 25px;
     font-weight: 400;
-    padding-top: 10px;
+    padding-top: 0px;
 }
 
 canvas {
     background-color: white;
-    margin-top: 240px;
+    margin-top: 280px;
     border-radius: 20px;
     animation-name: example;
     animation-duration: 5s;
