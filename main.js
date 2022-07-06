@@ -1,4 +1,4 @@
-quick_draw_data_set = [];
+data_set = ["pen", "rain", "apple", "door", "alarm clock", "glass", "airplane", "water bottle", "paper"];
 function preload(){
     classifier = ml5.imageClassifier("DoodleNet");
 }
